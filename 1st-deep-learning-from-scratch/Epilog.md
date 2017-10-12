@@ -3,6 +3,7 @@
 
 * 학습기간 : 2017. 07 ~ 2017. 09
 * 교재 : '밑바닥부터 시작하는 딥러닝' - 한빛미디어
+
 ![deep_learning_from_scratch](http://www.hanbit.co.kr/data/books/B8475831198_l.jpg)
 
 ## 이순환
