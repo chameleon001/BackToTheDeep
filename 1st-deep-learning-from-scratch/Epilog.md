@@ -3,7 +3,7 @@
 
 * 학습기간 : 2017. 07 ~ 2017. 09
 * 교재 : '밑바닥부터 시작하는 딥러닝' - 한빛미디어
-![밑바닥부터 시작하는 딥러닝](!http://www.hanbit.co.kr/data/books/B8475831198_l.jpg)
+![deep_learning_from_scratch](http://www.hanbit.co.kr/data/books/B8475831198_l.jpg)
 
 ## 이순환
 '밑바닥에서 시작하는 딥러닝'은 몇몇 머신러닝을 직업으로 삼고 있는 분들에게 추천받은 책이었다.
